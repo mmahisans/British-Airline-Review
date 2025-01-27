@@ -1,5 +1,5 @@
 # British-Airline-Review
-British Airline Review Dashboard
+British Airline Review Dashboard using Tableau
 
 ## Datasets Used
 1. [Countries.csv](https://github.com/user-attachments/files/18565271/Countries.csv)
