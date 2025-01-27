@@ -1,7 +1,7 @@
 # British-Airline-Review
 British Airline Review Dashboard
 
-## Dataset Used
+## Datasets Used
 1. [Countries.csv](https://github.com/user-attachments/files/18565271/Countries.csv)
 2. [ba_reviews.csv](https://github.com/user-attachments/files/18565270/ba_reviews.csv)
 
